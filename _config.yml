@@ -75,7 +75,7 @@ footer-text: Copyright (c) 2024 天泉懵
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
 # disqus: loffer #shortname
 valine_comment:
-  enable: true
+  enable: false
 # app_id
   leancloud_appid: sCaYBdvojgUFetjs7puykTTp-gzGzoHsz
 # app_key
